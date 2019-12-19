@@ -90,3 +90,5 @@ fastlane/test_output
 iOSInjectionProject/
 /snapshot/node_modules
 /using-with-puppeteer/node_modules
+/ts-demo1/node_modules
+/ts-demo2/node_modules

@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "tsc": "node_modules/node_modules/typescript/bin/tsc",
+    "compile": "tsc"
+  },
+  "name": "ts-demo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^3.7.3"
+  }
+}
